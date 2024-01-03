@@ -2,15 +2,17 @@
 Version 0.9.7 release
 Tested on Ventura, should work for Monterey too.
 5700G iGPU, APU. B550.
+SMBIOS iMac20,1
 
 # What this is
-This is a record for the future me to use as reference.
+This is a record for the future me to use as reference. 
 This is not a guide, although you may use anything from this repository at your own risk. I have merely gathered data and information from available online sources. All credits to the developers at dortania, chefkissinc, and anyone who contributed selflessly to make this work.
-PlatformInfo unpopulated.
-Check and update [core count](https://github.com/AMD-OSX/AMD_Vanilla).
 
-# Guides
-Follow [guide to files](https://chefkissinc.github.io/guide) and [guide to setup](https://dortania.github.io/OpenCore-Install-Guide/).
+# Guides & notes
+- Follow [guide to files](https://chefkissinc.github.io/guide) and [guide to setup](https://dortania.github.io/OpenCore-Install-Guide/).
+- PlatformInfo unpopulated.
+- Check and update [core count](https://github.com/AMD-OSX/AMD_Vanilla).
+- Persist [Bluetooth pairing](https://www.reddit.com/r/hackintosh/comments/p5ost3/macos_monterey_and_windows_bluetooth_pairing/) across MacOS and Windows.
 
 # Build
 - ASRock B550 Phantom Gaming ITX/AX v2.30
@@ -48,7 +50,7 @@ Additional
 - Adv > acpi > deep sleep in s4 & s5 (to disable always on USB power, s5 alone didn't quite seem to work??)
 
 # Setup notes
-Very smooth.
+Extremely smooth setup.
 However, this is my first motherboard with LED headers. LED headers **should not** be included in the [USB map](https://github.com/corpnewt/USBMap). Cost me 3 days of troubleshooting. And apparently it was written somewhere, I just couldn't find the note. For that matter..
 
 # USB Map
