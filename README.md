@@ -52,7 +52,7 @@ Very smooth.
 However, this is my first motherboard with LED headers. LED headers **should not** be included in the [USB map](https://github.com/corpnewt/USBMap). Cost me 3 days of troubleshooting. And apparently it was written somewhere, I just couldn't find the note. For that matter..
 
 # USB Map
-One bluetooth internal type 255.
-Front USB A type 3 x 2 and front USB C type 10 without switch (flipping the USB-C shows up as a different port).
-One board USB C with switch type 9.
-Two board USB 3, one of which has an internal split.
+- One bluetooth internal type 255.
+- Front USB A type 3 x 2 and front USB C type 10 without switch (flipping the USB-C shows up as a different port).
+- One board USB C with switch type 9.
+- Two board USB 3, one of which has an internal split.
