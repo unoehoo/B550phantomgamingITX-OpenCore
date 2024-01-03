@@ -48,7 +48,7 @@ Additional
 
 # Setup notes
 Extremely smooth setup.
-However, this is my first motherboard with LED headers detected on the tool. LED headers **should not** be included in the [USB map](https://github.com/corpnewt/USBMap). Cost me 3 days of troubleshooting. And apparently it was written somewhere, I just couldn't find the note. For that matter..
+However, this is my first motherboard with LED headers detected on the tool. LED headers **should not** be included in the [USB map](https://github.com/corpnewt/USBMap). Cost me 3 days of troubleshooting. And apparently it was written somewhere, I just didn't come across that note. For that matter..
 
 # USB Map
 - One bluetooth internal type 255.
