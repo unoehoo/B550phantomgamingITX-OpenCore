@@ -43,8 +43,8 @@ Note:
 - Adv > onboard devices config > uma frame buffer > auto (useless, can leave on auto)
 
 Additional
-Adv > onboard > led in s5 > enabled to disabled
-Adv > acpi > deep sleep in s4 & s5 (to disable always on USB power, s5 alone didn't quite seem to work??)
+- Adv > onboard > led in s5 > enabled to disabled
+- Adv > acpi > deep sleep in s4 & s5 (to disable always on USB power, s5 alone didn't quite seem to work??)
 
 # Setup notes
 Very smooth.
