@@ -39,7 +39,8 @@ Necessary
 Graphics
 - Adv > AMD CBS > NBIO common options > GFX config > iGPU config > set to UMA_specified &
 - Adv > AMD CBS > NBIO common options > GFX config > iGPU config > UMA frame buffer size (THIS ONE WORKS)
-Note:
+
+GFX Note:
 - Adv > onboard devices config > uma frame buffer > auto (useless, can leave on auto)
 
 Additional
