@@ -1,8 +1,5 @@
 # OpenCore EFI
-Version 0.9.7 release
-Tested on Ventura, should work for Monterey too.
-5700G iGPU, APU. B550.
-SMBIOS iMac20,1
+Version 0.9.7 release. Tested on Ventura, should work for Monterey too. 5700G iGPU, APU. B550. SMBIOS iMac20,1
 
 # What this is
 This is a record for the future me to use as reference. 
